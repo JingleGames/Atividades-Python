@@ -1,0 +1,14 @@
+destaca os avanços tecnológicos em Radiologia Médica disponíveis pela Força Aérea Brasileira (FAB), enfatizando a importância de exames como Raios-X, Ultrassonografia, Tomografia, Mamografia, Densitometria Óssea e Ressonância Magnética para o diagnóstico e prevenção de patologias. Atualmente, o setor utiliza laudos compostos por um relatório descritivo e imagens, sendo que o sistema convencional (analógico) baseado em filmes radiográficos apresenta limitações em termos de qualidade e gestão.
+
+A transição para sistemas digitais, em especial o PACS (Picture Archiving and Communication System), é apresentada como uma solução revolucionária. O PACS oferece diversas vantagens, como:
+
+Melhoria na qualidade da imagem: Possibilidade de aprimoramento pós-processamento (como zoom, filtros, otimização de contraste e nitidez), permitindo a detecção de detalhes importantes e uma análise mais precisa.
+Redução de custos operacionais: Elimina a necessidade de filmes radiográficos e os custos com insumos e armazenamento físico, promovendo economia e sustentabilidade.
+Integração e gestão eficiente: Permite a integração com outros sistemas hospitalares, como o prontuário eletrônico, facilitando o acesso e a organização dos dados em nuvem.
+Padronização e interoperabilidade: Utiliza o formato DICOM, padrão internacional para imagens médicas, garantindo a interoperabilidade entre diferentes equipamentos e sistemas.
+A implantação do PACS no Serviço de Imaginologia do GSAU-CT, que atualmente utiliza sistemas analógicos, representaria uma transformação significativa, elevando a qualidade dos diagnósticos e otimizando a gestão dos recursos na área de radiodiagnóstico.
+
+Pontos Principais:
+
+Avanço Tecnológico: Uso de exames modernos que são essenciais para o diagnóstico e prevenção de doenças.
+Sistemas Analógico vs. Digital: Limitações dos métodos convencionais e as vantagens do
